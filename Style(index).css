@@ -1,0 +1,43 @@
+body {
+   background: #FFE4B5;
+   }
+   hr {
+    position: relative;
+	border: none;
+    height: 8px;
+   }
+   table {
+   position: relative;
+   
+   }
+   .menu{
+  display: flex;
+   margin-right: 0px;
+  margin-left: -3%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+  }
+
+.menu li{
+  border: 1px solid gold;
+  width: 100%;
+  list-style: none;
+  background: #A0522D;
+ 
+
+  }
+
+.menu a {
+  color: gold;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  height: 40px;
+  line-height: 40px;
+ }
+
+.menu a:hover {
+  background: #F4A460;
+  color: #A0522D;
+}

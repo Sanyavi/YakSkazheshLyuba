@@ -1,0 +1,30 @@
+body {
+background: #ffff80;
+
+}
+table {
+border: none;
+border-color: #FFE4B5;
+border-collapse: collapse;
+}
+
+hr {
+width: 100%;
+height:30px;
+position: relative;
+
+}
+td {
+color: #CD853F;
+font-family: Arial;
+text-align: justify;
+}
+marquee {
+color: orange;
+background-color: #FDF5E6;
+width: 100%;
+height: 30px;
+font-size: 22px;
+border: 2px solid #F4A460;
+
+}
